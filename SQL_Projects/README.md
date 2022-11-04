@@ -8,4 +8,5 @@
     so i grouped by "primary_poc" and "date" then ordered by "highest order"
 -   And as for the day generation, I used the "to_char" function to get the days of the week.
 ## Question two
--  
+-  I started by joining the tables of accounts and orders
+-  Then I made use of just one subquery 
